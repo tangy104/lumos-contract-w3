@@ -1,0 +1,1 @@
+Contract.sol is the solidity code for a todo list which incorporates a smart contract for execution of the tasks in todo list.
